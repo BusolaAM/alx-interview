@@ -1,4 +1,4 @@
-# This README file is for the 0x05. N Queens project. In this folder you will fing the following files
+# This README file is for the  project. In this folder you will fing the following files
 
 Install Node 10
 
